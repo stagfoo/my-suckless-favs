@@ -24,3 +24,8 @@ a list of small programs to build a minimal desktop envo
 # File managers
 - ranger
 - thunar
+
+# Editors
+- vim
+- nvim
+- vscode
