@@ -24,8 +24,14 @@ a list of small programs to build a minimal desktop envo
 # File managers
 - ranger
 - thunar
+- lf
+- nnn (super cool)
 
 # Editors
 - vim
 - nvim
 - vscode
+
+# dotfiles
+- themer
+- dotbot
