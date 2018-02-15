@@ -8,7 +8,7 @@ a list of small programs to build a minimal desktop envo
 - spectwm
 
 # Bars
-- Lint2
+- tint2
 - polybar
 - lemonbar
 
