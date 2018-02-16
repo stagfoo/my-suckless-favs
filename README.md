@@ -5,6 +5,8 @@ a list of small programs to build a minimal desktop envo
 - Openbox
   - .config/openbox/rc.xml
   - .config/openbox/autostart.sh
+- awesome ? wm
+  
 ## Theming 
 https://github.com/dawikur/base16-gtk2
 
