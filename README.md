@@ -28,6 +28,9 @@ https://github.com/dawikur/base16-gtk2
 # Terminals
 - fish
 - zsh
+ - goto
+ - git alias
+ - docker alias
 ## Theming 
 https://github.com/aaron-williamson/base16-alacritty
 
