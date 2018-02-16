@@ -1,18 +1,14 @@
-# awesome-suckless
+# My Suckless tools
 a list of small programs to build a minimal desktop envo
 
 # Window Managers
 - Openbox
   - .config/openbox/rc.xml
   - .config/openbox/autostart.sh
-- i3
-- i3-gapps
-- spectwm
-
 # Bars
 - tint2
 - polybar
-- lemonbar
+  - 
 
 # Image Viewers
 - feh
