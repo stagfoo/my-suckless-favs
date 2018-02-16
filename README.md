@@ -5,10 +5,13 @@ a list of small programs to build a minimal desktop envo
 - Openbox
   - .config/openbox/rc.xml
   - .config/openbox/autostart.sh
+## Theming 
+https://github.com/dawikur/base16-gtk2
+
 # Bars
 - tint2
 - polybar
-  - 
+  - https://github.com/jaagr/polybar/wiki (need compiler theme or base16)
 
 # Image Viewers
 - feh
@@ -17,9 +20,14 @@ a list of small programs to build a minimal desktop envo
 - qiv
 - sxiv
 
+## Theming 
+https://github.com/dawikur/base16-gtk2
+
 # Terminals
 - fish
 - zsh
+## Theming 
+https://github.com/aaron-williamson/base16-alacritty
 
 # termainl emulators
 - hyper
@@ -29,18 +37,24 @@ a list of small programs to build a minimal desktop envo
 
 # File managers
 - ranger
-- thunar
+- thunar ? gtk theming?
 - lf
 - nnn (super cool)
   - needs maping??
 
 # Editors
-- vim
 - nvim
   - .config/nvim/config
 - vscode
-  - themer extenion
+  - themer or base16
+
+# Launcher
+https://github.com/0xdec/base16-rofi
+
+# Nofications
+https://github.com/khamer/base16-dunst
 
 # dotfiles
-- themer
+- themer or base16
 - dotbot
+
