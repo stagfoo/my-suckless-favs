@@ -27,6 +27,8 @@ https://github.com/dawikur/base16-gtk2
 
 # Terminals
 - fish
+  - fisherman
+  - joehillen/to-fish
 - zsh
  - goto
  - git alias
