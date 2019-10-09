@@ -8,7 +8,7 @@ a list of small programs to build a minimal desktop envo
 - base16?
 
 ## Term
-- Kitty
+- Kitty ? Hyper
 - base16?
 
 ## Bars
