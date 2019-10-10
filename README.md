@@ -1,21 +1,29 @@
 # My Suckless tools
 a list of small programs to build a minimal desktop envo
 
+# 2019
 
-# 2019 Rice
-## WM
+Requirements
+
+```bash
+pip3 install pybase16-builder
+```
+
+### WM
 - BSPWM
 - base16?
-
-## Term
+---
+### Term
 - Kitty ? Hyper
 - base16?
-
+---
 ## Bars
 - polybar
 - base16?
+---
 ## Image Viewer
 - feh
+---
 ## File Manager
 - nnn
 - thunar
@@ -35,31 +43,33 @@ https://github.com/khamer/base16-dunst
 - dotbot
 - custom
 ---
+-
+-
+# 2017
 
-## 2017
 
-# Window Managers
+## Window Managers
 - Openbox
   - .config/openbox/rc.xml
   - .config/openbox/autostart.sh
 - awesome ? wm
-  
-## Theming 
-https://github.com/dawikur/base16-gtk2
 
-# Bars
+-  ## Theming
+  https://github.com/dawikur/base16-gtk2
+
+## Bars
 - tint2
 - polybar
   - https://github.com/jaagr/polybar/wiki (need compiler theme or base16)
 
-# Image Viewers
+## Image Viewers
 - feh
   - bg-image script .bg.png
   - .config/openbox/autostart.sh
 - qiv
 - sxiv
 
-## Theming 
+## Theming
 https://github.com/dawikur/base16-gtk2
 
 # Terminals
@@ -70,8 +80,8 @@ https://github.com/dawikur/base16-gtk2
  - goto
  - git alias
  - docker alias
-## Theming 
-https://github.com/aaron-williamson/base16-alacritty
+- ## Theming
+     https://github.com/aaron-williamson/base16-alacritty
 
 # termainl emulators
 - hyper
