@@ -1,4 +1,4 @@
-# My Suckless tools
+# Ricing Programs
 a list of small programs to build a custom desktop experience
 
 ## Launcher
